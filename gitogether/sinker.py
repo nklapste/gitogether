@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+"""DEC CODE"""
+
 import os
 from git.repo import Repo
 import time

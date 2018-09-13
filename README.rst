@@ -1,2 +1,4 @@
-# gitogether
+gitogether
+==========
+
 Forcing crappy teletype through git
